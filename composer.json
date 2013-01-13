@@ -1,0 +1,24 @@
+{
+    "name":        "bmatzner/fontawesome-bundle",
+    "type":        "symfony-bundle",
+    "description": "FontAwesome Bundle for Symfony2",
+    "keywords":    ["webfonts", "typography", "graphics", "css", "symfony"],
+    "homepage":    "http://fortawesome.github.com/Font-Awesome/",
+    "license":     ["MIT", "CC BY 3.0"],
+    "authors":     [
+        {
+            "name":     "Bernd Matzner",
+            "email":    "bernd@matznermatzner.de",
+            "homepage": "http://berndmatzner.de"
+        }
+    ],
+    "require":     {
+        "symfony/framework-bundle": ">=2.1"
+    },
+    "autoload":    {
+        "psr-0": {
+            "Bmatzner\\FontAwesomeBundle": ""
+        }
+    },
+    "target-dir":  "Bmatzner/FontAwesomeBundle"
+}
