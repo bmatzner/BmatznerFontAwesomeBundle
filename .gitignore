@@ -1,1 +1,9 @@
+# Windows metadata
+Thumbs.db
+desktop.ini
+# Mac metadata
 .DS_Store
+# Helper metadata
+.idea
+codekit-config.json
+.sass-cache

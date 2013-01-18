@@ -2,7 +2,7 @@
 
 ## Current Version
 
-Font Awesome v3.0.1
+Font Awesome v3.0.2
 
 ## Installation
 
@@ -61,6 +61,10 @@ Refer to the desired files in your HTML template, e.g.
 ``` html
 <link rel="stylesheet" type="text/css" href="{{ asset('bundles/bmatznerfontawesome/css/font-awesome.css') }}" />
 ```
+
+## Notes
+
+The relative path of the fonts has been changed to an absolute path in the web/bundles folder, allowing for CSS rewriting.
 
 # Licenses
 
