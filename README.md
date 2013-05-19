@@ -2,7 +2,7 @@
 
 ## Current Version
 
-Font Awesome v3.0.2
+Font Awesome v3.1.1
 
 ## Installation
 
@@ -59,7 +59,14 @@ $ php app/console assets:install --symlink web
 Refer to the desired files in your HTML template, e.g.
 
 ``` html
-<link rel="stylesheet" type="text/css" href="{{ asset('bundles/bmatznerfontawesome/css/font-awesome.css') }}" />
+<link rel="stylesheet" type="text/css" href="{{ asset('bundles/bmatznerfontawesome/css/font-awesome.min.css') }}" />
+```
+
+For IE7 support, add the following conditional comment to the head of your HTML.
+``` html
+<!--[if IE 7]>
+  <link rel="stylesheet" href="{{ asset('bundles/bmatznerfontawesome/css/font-awesome-ie7.min.css') }}">
+<![endif]-->
 ```
 
 ## Notes
