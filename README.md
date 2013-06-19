@@ -2,7 +2,7 @@
 
 ## Current Version
 
-Font Awesome v3.1.1
+Font Awesome v3.2.1
 
 ## Installation
 
