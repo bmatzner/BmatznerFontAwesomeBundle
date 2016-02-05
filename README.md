@@ -2,7 +2,7 @@
 
 ## Current Version
 
-Font Awesome v4.4.0
+Font Awesome v4.5.0
 
 ## Installation
 
