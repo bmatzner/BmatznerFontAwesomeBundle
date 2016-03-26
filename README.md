@@ -14,7 +14,7 @@ Font Awesome v4.5.0
 {
     "require": {
 		// ...
-        "bmatzner/fontawesome-bundle": "~4.4"
+        "bmatzner/fontawesome-bundle": "~4.5"
     }
 }
 ```
