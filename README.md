@@ -2,7 +2,7 @@
 
 ## Current Version
 
-Font Awesome v4.5.0
+Font Awesome v4.6.1
 
 ## Installation
 
@@ -14,7 +14,7 @@ Font Awesome v4.5.0
 {
     "require": {
 		// ...
-        "bmatzner/fontawesome-bundle": "~4.4"
+        "bmatzner/fontawesome-bundle": "~4.6"
     }
 }
 ```
