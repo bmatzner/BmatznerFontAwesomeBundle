@@ -7,3 +7,6 @@ desktop.ini
 .idea
 codekit-config.json
 .sass-cache
+# Eclipse metadata
+/.buildpath
+/.project
